@@ -1,0 +1,1 @@
+scalac -classpath /Users/aneeshd/Scala/projecteuler/target/scala-2.12/classes -bootclasspath /Users/aneeshd/.sbt/boot/scala-2.12.6/lib/scala-library.jar /Users/aneeshd/Scala/projecteuler/src/main/scala/problem4.scala

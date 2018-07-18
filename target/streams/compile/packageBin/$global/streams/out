@@ -1,0 +1,19 @@
+[info] Packaging /Users/aneeshd/Scala/projecteuler/target/scala-2.12/projecteuler_2.12-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	problem2$.class
+[debug] 	  /Users/aneeshd/Scala/projecteuler/target/scala-2.12/classes/problem2$.class
+[debug] 	problem4.class
+[debug] 	  /Users/aneeshd/Scala/projecteuler/target/scala-2.12/classes/problem4.class
+[debug] 	problem4$.class
+[debug] 	  /Users/aneeshd/Scala/projecteuler/target/scala-2.12/classes/problem4$.class
+[debug] 	problem3.class
+[debug] 	  /Users/aneeshd/Scala/projecteuler/target/scala-2.12/classes/problem3.class
+[debug] 	problem2.class
+[debug] 	  /Users/aneeshd/Scala/projecteuler/target/scala-2.12/classes/problem2.class
+[debug] 	problem3$.class
+[debug] 	  /Users/aneeshd/Scala/projecteuler/target/scala-2.12/classes/problem3$.class
+[debug] 	problem1$.class
+[debug] 	  /Users/aneeshd/Scala/projecteuler/target/scala-2.12/classes/problem1$.class
+[debug] 	problem1.class
+[debug] 	  /Users/aneeshd/Scala/projecteuler/target/scala-2.12/classes/problem1.class
+[info] Done packaging.

@@ -1,0 +1,12 @@
+object problem4 {
+  def isPalindrome(num: Int): Boolean = {
+    val rev = num.toString.toL
+  }
+
+  def main(args: Array[String]): Unit = {
+    
+  }
+}
+
+
+
